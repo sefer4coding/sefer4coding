@@ -19,8 +19,3 @@ Apasionado por el análisis de datos, la programación en Python y R, y la autom
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://git-readme-streak-stats.herokuapp.com?user=sefer4coding&theme=radial&hide_border=true" alt="GitHub Streak" />
-</p>
