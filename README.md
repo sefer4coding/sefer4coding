@@ -22,6 +22,5 @@ Apasionado por el análisis de datos, la programación en Python y R, y la autom
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sefer4coding&show_icons=true&theme=radial&hide_border=true&count_private=true" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefer4coding&layout=compact&theme=radial&hide_border=true&count_private=true" width="48%" alt="Lenguajes más usados" />
+  <img src="https://git-readme-streak-stats.herokuapp.com?user=sefer4coding&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
